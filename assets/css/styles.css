@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Yuji+Hentaigana+Akebono&display=swap');
+body{
+	font-family: 'Yuji Hentaigana Akebono', cursive;
+	background-color: #393E46;
+}
+#container {
+	align-items: center;
+	justify-content: center;
+	
+}
